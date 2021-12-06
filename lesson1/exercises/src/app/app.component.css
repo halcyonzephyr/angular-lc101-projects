@@ -1,0 +1,7 @@
+
+.col-3 {
+    border-left: 1px dashed #333;
+}
+.col-3:first-of-type {
+    border-left: none;
+}

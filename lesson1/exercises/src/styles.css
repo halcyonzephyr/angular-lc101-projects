@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.designbolts.com%2Fwp-content%2Fuploads%2F2013%2F02%2FLittle-Triangles-Grey-Seamless-Pattern-For-Website-Background.jpg");
+    background-repeat:repeat;
+}
